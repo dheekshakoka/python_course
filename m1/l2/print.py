@@ -1,0 +1,6 @@
+print("Hello")
+print(8)
+print(8,9,10)
+name = input("What's your name?")
+print('How are you', name,'?')
+print(f"How are you {name}?")
