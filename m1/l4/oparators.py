@@ -1,3 +1,8 @@
+"""
+Harvest farm programming in python.
+Author: Dheeksha Koka
+Date: 10-08-2026
+"""
 # --- Assignment Operator (=) ---
 # Store the harvest in kg from each of the 5 fields
 field1 = 120
