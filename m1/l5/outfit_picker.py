@@ -1,5 +1,7 @@
 """
 Activity: Weather Outfit Picker
+Author: Dheeksha Koka
+Date: 13/08/2026
 
 Instructions:
 1. Ask the user to enter today's temperature.
@@ -41,12 +43,12 @@ else:
     print("Wear any other shoes.")
 
 # Display the final summary
-print()
-print("This is your final outfit for today:")
-print()
+#print()
+print("\nThis is your final outfit for today:\n")
+#print()
 print("----------------")
-print(outfit)
-print(umbrella)
-print(shoes)
+print(f"Outfit: {outfit}")
+print(f"You need: {umbrella}")
+print("Footwear:", shoes)
 print("----------------")
 print()
